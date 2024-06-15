@@ -1,4 +1,5 @@
 *Proyecto de Consulta y Gestión de Libros "LiterAlura"*
+
 Este proyecto tiene como objetivo crear un sistema que permite consultar libros mediante una API, añadir los datos a una base de datos y realizar diversas consultas sobre los libros y autores registrados. 
 A continuación, se detallan las funcionalidades principales del sistema y su implementación.
 
